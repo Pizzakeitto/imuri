@@ -34,3 +34,5 @@ got(vgmUrl).then(response => {
 //        console.log(err);
 //      });
 //}
+
+console.log("PERUNA SALAATTI")
